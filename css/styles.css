@@ -1,0 +1,274 @@
+.left-catalog {
+    position: absolute;
+    width: 320px;
+    height: 820px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.logo-img {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 38px;
+    top: 16px;
+}
+
+.head_title {
+    position: absolute;
+    width: 150px;
+    height: 73px;
+    left: 46px;
+    top: 160px;
+
+    font-family: Helvetica, 'Titillium Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+
+    color: #000000;
+}
+
+.p-support {
+    position: absolute;
+    width: 142px;
+    height: 37px;
+    left: 60px;
+    top: 760px;
+
+    font-family: 'Titillium Web', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+
+    color: #000000;
+}
+
+.menu-bar {
+    position: absolute;
+    width: 248px;
+    height: 421px;
+    left: 10px;
+    top: 220px;
+
+}
+
+.ul-without-dots {
+    list-style-type: none; 
+}
+
+.catalog-text {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    text-decoration: none;
+
+    color: #000000;
+}
+
+.img-catalog {
+    padding: 12px;
+    margin-bottom: -14px;
+    width: 20px;
+    height: 20px;
+}
+
+.top-menu {
+    position: absolute;
+    width: 930px;
+    height: 121px;
+    left: 326px;
+    top: 0px;
+
+}
+
+.search-bar {
+    position: absolute;
+    width: 510px;
+    height: 40px;
+    left: 10px;
+    top: 40px;
+
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 37px;
+
+    color: black;
+
+    background: #FAFAFA;
+    border: 1px solid #000000;
+    border-radius: 16px;
+}
+
+.btn-account {
+    position: absolute;
+    width: 132px;
+    height: 37px;
+    left: 566px;
+    top: 42px;
+
+    font-family: 'Titillium Web', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 37px;
+
+    color: #000000;
+}
+
+.ico-user {
+    width: 18px;
+    height: 18px;
+    padding-left: 10px;
+    margin-bottom: -2px;
+
+}
+
+.ico_heart {
+    position: absolute;
+    left: 705px;
+    top: 50px;
+    width: 20px;
+    height: 20px;
+}
+
+.ico-bag {
+    position: absolute;
+    left: 742px;
+    top: 47px;
+    width: 22px;
+    height: 22px;
+}
+
+.cheakout {
+    position: absolute;
+    width: 126px;
+    height: 44px;
+    left: 782px;
+    top: 40px;
+
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #b5ebc5;
+    border-radius: 18px;
+    text-decoration: none;
+}
+
+.end-catalog {
+    position: absolute;
+    width: 930px;
+    height: 630px;
+    left: 326px;
+    top: 128px;
+
+}
+
+.img-border-1 {
+    position: absolute;
+    width: 520px;
+    height: 128px;
+    left: 10px;
+    top: 10px;
+
+    background-color: aqua;
+    border-radius: 18px;
+}
+
+
+
+.banner-1 {
+    width: 520px;
+    height: 128px;
+    border-radius: 18px;
+}
+
+.banner-2 {
+    position: absolute;
+    width: 520px;
+    height: 128px;
+    left: 10px;
+    top: 152px;
+
+    border-radius: 18px;
+}
+
+.banner-3 {
+    position: absolute;
+    width: 246px;
+    height: 375px;
+    left: 10px;
+    top: 296px;
+    object-fit: cover;
+
+    border-radius: 18px;
+}
+
+.banner-4 {
+    position: absolute;
+    width: 246px;
+    height: 375px;
+    left: 286px;
+    top: 296px;
+    object-fit: cover;
+
+    border-radius: 18px;
+}
+
+.banner-5 {
+    position: absolute;
+    width: 170px;
+    height: 267px;
+    left: 552px;
+    top: 10px;
+
+    object-fit: cover;
+    border-radius: 18px;
+}
+
+.banner-6 {
+    position: absolute;
+    width: 170px;
+    height: 267px;
+    left: 746px;
+    top: 10px;
+
+    object-fit: cover;
+    border-radius: 18px;
+}
+
+.banner-7 {
+    position: absolute;
+    width: 365px;
+    height: 175px;
+    left: 550px;
+    top: 298px;
+
+    object-fit: cover;
+    border-radius: 18px;
+}
+
+.banner-8 {
+    position: absolute;
+    width: 365px;
+    height: 175px;
+    left: 550px;
+    top: 498px;
+
+    object-fit: cover;
+    border-radius: 18px;
+}
