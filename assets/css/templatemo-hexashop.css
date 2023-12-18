@@ -645,8 +645,8 @@ slider
 
 .slide-banner {
   border-bottom: 3px dotted #eee;
-  padding-top: 265px;
-  padding-bottom: 260px;
+  padding-top: 290px;
+  padding-bottom: 300px;
 }
 
 .slide-banner .left-content .thumb .img-slide {
@@ -720,7 +720,7 @@ input {
 
 @media (max-width: 500px) {
   .content-slide {
-    height: 25rem;
+    height: 20rem;
     width: 32rem;
     border-radius: 1rem;
     position: absolute;
@@ -738,6 +738,12 @@ input {
   .bar-slide {
     width: 1.5rem;
     height: 1.5rem;
+  }
+
+  .slide-banner {
+    border-bottom: 3px dotted #eee;
+    padding-top: 210px;
+    padding-bottom: 195px;
   }
 }
 
@@ -2645,6 +2651,7 @@ table {
 
 .cart-input {
   display: inline;
+  width: 60px;
 }
 
 th {
@@ -2656,4 +2663,15 @@ th {
 
 td {
   padding: 10px 5px;
+}
+
+@media (max-width: 500px) {
+  td th{
+    border-radius: 1rem;
+    position: absolute;
+    overflow: hidden;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 }
